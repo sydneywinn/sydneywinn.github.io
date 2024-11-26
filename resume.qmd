@@ -1,89 +1,61 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sydney Winn's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+# Sydney Winn
+Student, Future Business Owner.
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Student at Brigham Young University - Idaho
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`2021-present`
+__Brigham Young University Idaho.__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2020`
+Kumon, *Outstanding Staff Award*, Solana Beach, CA 
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Skills
+- Microsoft 360/Teams/Outlook
+- SQL
+- Python
+- PowerBI
 
 
-## Occupation
+## Experience
 
-`1600`
-__Royal Mint__, London
+`May 2024 - August 2024`
+__Tuacahn Center for the Arts__, St George Utah
+*Marketing Intern* 
+- Assisted in creating engaging content for social media platforms to enhance online presence
+- Contributed to the development of marketing materials - including copywriting, graphic design, and multimedia content creation
+- Supported the marketing team in promoting and working events
+- Collaborated with cross-functional teams to ensure cohesive and effective marketing campaigns
 
-- Warden
-- Minted coins
+`June 2023 - September 2023`
+__Dexcom__, Carlsbad California
+*Administrative Assistant 1, Human Resources*
+- Redesigned onboarding and new-hire meetings
+- Reorganized Human Resources documents for easier access
+- Coordinated “360 Reviews” on Qualtrics and BetterUp
+- Prepared “DE&I at Dexcom” new-hire video
+- Planned and organized materials for VP 2023 event 
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`July 2021 - September 2021`
+__Warner Pediatric Dental__, Encinitas California
+*Sterilizer/Dental Assistant*
+- Sterilized and cleaned dental instruments and offices
+- Supplied  dental-hygienists by providing tools and equipment
+- Helped with administrative tasks
 
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+`September 2019 - September 2021`
+__Kumon__, Solana Beach California
+*Tutor/Grader*
+- Tutored children of all ages math and reading
+- Prepared student’s classwork and homework
+- Emailed and communicated with clients 
+- Prepared monthly and recurring payments
